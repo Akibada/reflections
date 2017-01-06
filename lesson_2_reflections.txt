@@ -17,3 +17,6 @@ Here is some changes to test username and email global settings.
 
 What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 By merging branches we merge two versions of code into one.
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+Pros: nothing doing additional, it is easy. Cons: Not always automatic does work if you have collisions.
